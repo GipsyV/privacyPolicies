@@ -1,0 +1,12 @@
+Rusher Crusher: Privacy policy
+Welcome to the RusherCrusher app for Android!
+
+This is an Android game developed by hardCoded using the Unity Game Engine.
+
+It stores information about the game locally and possess no cloud feature.
+
+I have not programmed this app to collect any personally identifiable information. All data created by you is stored on your device only.
+
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
+
+hardcodedoficial@gmail.com
